@@ -1,7 +1,3 @@
-# parallel-merge
-Kode ini merupakan representasi dari penerapan konsep Parallel Merge dari suatu Array dalam Komputasi Paralel 
-
-
 ## Gambaran Umum
 
 Kode ini berfungsi untuk menggabungkan array menggunakan konsep Parallel Merge dalam Komputasi Paralel.
